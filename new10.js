@@ -21,7 +21,7 @@
   }
   const cms = readCMS();
 
-  const RAID_VIDEO_URL = "https://res.cloudinary.com/djoewpnpj/video/upload/q_auto/f_auto/v1780252591/%D9%81%D9%8A%D8%AF%D9%8A%D9%88_%D8%A7%D9%84%D8%B1%D8%A7%D8%A6%D8%AF_xu8mnz.mp4";
+  const RAID_VIDEO_URL = "https://ik.imagekit.io/4fpl9n4du/%D9%81%D9%8A%D8%AF%D9%8A%D9%88%20%D8%A7%D9%84%D8%B1%D8%A7%D8%A6%D8%AF.mp4";
 
   function normalizeDigits(str){
     const arabic = '٠١٢٣٤٥٦٧٨٩';
